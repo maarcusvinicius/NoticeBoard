@@ -2,3 +2,4 @@ Programa que pode ajudar em várias situações com avisos onde vao te lembrar o
 (obs: ainda vou aprimorar)
 
 --> utilizei NODE, EXPRESS, CORS, BOOSTRAP <--
+(CORS atrapalhou um pouco...)
